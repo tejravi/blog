@@ -1,0 +1,56 @@
+body {
+  background-color: rgba(68, 62, 62, 0.151);
+  color: black;
+}
+.container {
+  width: auto;
+  height: auto;
+  background-color: rgba(32, 30, 30, 0.288);
+  padding: 20px;
+  border-radius: 25px;
+  color: rgb(34, 34, 34);
+  padding-bottom: 40px;
+}
+.container--btn {
+  text-decoration: none;
+  color: white;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  background-color: rgb(73, 168, 73);
+  border-radius: 25px;
+}
+.card {
+  width: auto;
+  height: auto;
+  background-color: rgba(37, 37, 37, 0.644);
+  color: white;
+  margin-top: 10px;
+  padding: 5%;
+  border-radius: 25px;
+}
+.text {
+  margin: 10px;
+  width: 50%;
+  padding: 10px;
+  border: 1px solid blue;
+  outline: none;
+}
+.submit {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(46, 168, 97);
+  border-radius: 25px;
+  cursor: pointer;
+  color: white;
+  border: 1px solid rgb(46, 168, 97);
+}
+.submit:hover {
+  border: 1px solid rgba(37, 37, 37, 0.644);
+  background-color: rgba(37, 37, 37, 0.644);
+  color: white;
+  outline: none;
+}
+h4 {
+  color: rgb(236, 107, 68);
+}
